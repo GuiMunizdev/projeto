@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa para acesso de redes sociais. 
+Programa para acesso de redes sociais feito com auxilio das aulas da Rocketseat. 
 </p>
 
 <p align="center">
